@@ -6,4 +6,5 @@
 <h4>Waitt 2 hour</h4>
 
 <h3>Enjoyy</h3>
-<img src="Meta2.png">
+< img  src = "img/Meta2.png">
+
