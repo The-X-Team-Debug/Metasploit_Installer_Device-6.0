@@ -6,4 +6,4 @@
 <h4>Waitt 2 hour</h4>
 
 <h3>Enjoyy</h3>
-< img  src = " https://wiki.termux.com/wiki/File:Meta2.png " >
+<img src="https://wiki.termux.com/wiki/File:Meta2.png">
